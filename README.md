@@ -1,2 +1,2 @@
-# Personal website try out
+# Personal website 
 Thanks to @https://github.com/sssain/simple-portfolio
