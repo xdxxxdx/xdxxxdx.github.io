@@ -25,7 +25,12 @@ html {
  * Remove the margin in all browsers.
  */
 body {
-  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 20;
+  flex-direction: column;
 }
 /* Links
  ========================================================================== */
