@@ -25,10 +25,7 @@ html {
  * Remove the margin in all browsers.
  */
 body {
-  display: flex;
-  min-height: 100vh;
-  margin: auto;
-  flex-direction: column;
+  margin: 0;
 }
 /* Links
  ========================================================================== */
